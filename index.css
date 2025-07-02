@@ -1,0 +1,86 @@
+body{
+    background-color: lightsteelblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    font-size:65px;
+    color: darkcyan;
+    font-weight:60px;
+    text-align: center;
+}
+
+p{
+    font-size:24px;
+    color: rgb(2, 71, 71);
+    text-align:justify;
+}
+
+hr{
+    border:0.5px, solid rgb(54, 105, 105);
+}
+
+#botao{
+    font-size:20px;
+    background-color: darkcyan;
+    color: rgb(7, 88, 88);
+    border:0.5px solid black;
+    border-radius:5px;
+    margin-top:10px;
+    padding:10px;
+}
+
+#mensagem{
+    font-size:20px;
+}
+
+#hobbies{
+    margin-bottom: 1px;
+}
+
+ul{
+    margin-top: 0px;
+    font-size:20px;
+    color: rgb(7, 126, 126);
+    margin-bottom:25px;
+}
+
+ul > li {
+    margin-bottom: 10px;
+}
+
+#miss{
+    border-radius:35px;
+    width: 700px;
+    margin-bottom:40px;
+}
+table {
+    border: 1px solid darkcyan; 
+    border-collapse: collapse;
+}
+
+th, td {
+    color:  rgb(2, 71, 71);
+    border: 1px solid rgb(9, 100, 100); 
+    border-color: rgb(6, 97, 97);
+    padding: 10px; 
+    text-align: center;  
+}
+
+img{
+     border-radius:35px;
+    width: 500px;
+    margin:10px;
+}
+
+a{
+    font-size:25px;
+    color: rgb(7, 126, 126);
+    text-decoration: none; 
+}
+
+a:hover {
+      color: rgb(3, 32, 32); 
+}
+
+
